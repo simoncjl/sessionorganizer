@@ -2,4 +2,4 @@
 
 👉 https://sessionorganizer.app
 
-Organisez des sessions sportives en groupe sans échanges interminables.
+Organisez des sessions de padel en groupe sans échanges interminables.
